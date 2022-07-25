@@ -20,7 +20,7 @@ You can look and see what it's like to be a computer science student - enjoy🙂
 - 🌱 I’m currently learning Computer Science & Mathematics at Ariel University.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about anything you want and I will try to help.
-- 📫 How to reach me: shirarot047@gmail.com
+- 📫 How to reach me: shirarot047@gmail.com , www.linkedin.com/in/shira-rot
 - ⚡ Fun fact: I really like to cook and try to make something delicious every week :)
 
 *Languages and Tools* :
