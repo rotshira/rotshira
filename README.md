@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋🙋‍♀️
 
 
-Hello🙋‍♀️ My name is Shira Rot, I'm a Computer Science & Mathematics BSc student at Ariel University.
+My name is Shira Rot, I'm a Computer Science & Mathematics BSc student at Ariel University.
 This is my github profile and here are my latest tasks and projects.
 You can look and see what it's like to be a computer science student - enjoy🙂 
 <!--
