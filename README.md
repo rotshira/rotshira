@@ -9,7 +9,7 @@ You can look and see what it's like to be a computer science student - enjoy🙂
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rotshira)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotshira&hide=issues,stars,prs&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotshira&hide=issues,prs&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotshira&layout=compact&theme=synthwave" />
