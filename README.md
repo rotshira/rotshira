@@ -1,9 +1,15 @@
 ### Hi there 👋🙋‍♀️
-
-
 My name is Shira Rot, I'm a Computer Science & Mathematics BSc student at Ariel University.
 This is my github profile and here are my latest tasks and projects.
-You can look and see what it's like to be a computer science student - enjoy🙂 
+You can look and see what it's like to be a computer science student - enjoy🙂   
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rotshira) 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rotshira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotshira)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **rotshira/rotshira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
