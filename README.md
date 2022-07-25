@@ -16,7 +16,7 @@ You can look and see what it's like to be a computer science student - enjoy🙂
 </a>
 
  
- *About me* 💁🏼‍♀️
+ *About me* :
 - 🌱 I’m currently learning Computer Science & Mathematics at Ariel University.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about anything you want and I will try to help.
