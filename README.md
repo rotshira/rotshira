@@ -1,4 +1,6 @@
-### Hi there 👋🙋‍♀️
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+🙋‍♀️+welcome!!!)](https://git.io/typing-svg)
+
 <img align="right" src="https://user-images.githubusercontent.com/93703549/180757513-06dd3df7-6016-4d64-9a66-7ce5d168bac9.jpg" width="100"/>
 My name is Shira Rot, I'm a Computer Science & Mathematics BSc student at Ariel University.                         
 This is my github profile and here are my latest tasks and projects.
@@ -13,20 +15,10 @@ You can look and see what it's like to be a computer science student - enjoy🙂
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotshira&layout=compact&theme=synthwave" />
 </a>
 
+## about me 🙂
+- 🌱 I’m currently learning Computer Science & Mathematics at Ariel University.
+- 🤔 I’m looking for help with finding a job.
+- 💬 Ask me about anything you want and I will try to help.
+- 📫 How to reach me: shirarot047@gmail.com
+- ⚡ Fun fact: I really like to cook and try to make something delicious every week :)
 
-
-
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
